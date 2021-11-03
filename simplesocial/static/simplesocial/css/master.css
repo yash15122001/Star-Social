@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color:white;
+}
+
+.jumbotron
+{
+  background-color: #222222;
+}
+
+nav{
+  color: white;
+}
