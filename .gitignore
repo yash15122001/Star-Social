@@ -1,0 +1,33 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Django migration files
+*.log
+*.sqlite3
+simplesocial/**/*.sqlite3
+migrations/
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Django specific
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+media/
+static/
+
+# IDE files
+.idea/
+.vscode/
+
+# macOS specific
+.DS_Store
+simplesocial/db.sqlite3
